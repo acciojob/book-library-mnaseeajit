@@ -1,6 +1,9 @@
 /*  your css code here. If applicable */
-.book-library{
+body{
 	background-color : #f8f8f8;
+}
+.book-library{
+	background-color : #ffffff;
 }
 .book{
 	background-color : #f1f1f1;
@@ -21,7 +24,7 @@
 	border : none;
 }
 	.button>a{
-		color : white;
+		color : #2ecc71;
 		text-decoration : none;
 	}
 	.text{
