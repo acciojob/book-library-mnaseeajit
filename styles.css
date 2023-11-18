@@ -24,11 +24,12 @@ body{
 	border : none;
 }
 	.button>a{
-		color : #2ecc71;
+/* 		color : #2ecc71; */
+		color : white;
 		text-decoration : none;
 	}
 	.text{
 		margin-left : 20px;
-		background-color : rgb(46,204,113);
+/* 		background-color : rgb(46,204,113); */
 	}
 
